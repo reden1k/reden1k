@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-
+<p align="center">
+  <img width="400" height="250" src="https://streak-stats.demolab.com?user=reden1k&theme=tokyonight&hide_border=true">
+</p>
         
-[![GitHub Streak](https://streak-stats.demolab.com?user=reden1k&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
     
 
 
