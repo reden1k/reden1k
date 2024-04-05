@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+        
+[![GitHub Streak](https://streak-stats.demolab.com?user=reden1k&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+    
+
+
 <!--
 **reden1k/reden1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
