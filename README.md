@@ -35,7 +35,7 @@
 
 ### Stats:
 <p>
-  <img width="400" height="250" src="https://github-readme-stats.vercel.app/api?username=reden1k&show_icons=true&theme=tokyonight&hide_border=true">
+  <img width="400" height="250" src="https://github-readme-stats.vercel.app/api?username=redeN1k&show_icons=true&theme=tokyonight&hide_border=true">
 </p>
   
 ---
