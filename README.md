@@ -1,5 +1,3 @@
-<!-- BLOG-POST-LIST:START -->
-
 <div align="center">
   <div id="header">
     <img src="https://github.com/reden1k/reden1k/assets/45299992/2e854ab2-3454-4a10-b581-6da64ea6a554" width="150"/>
@@ -39,4 +37,3 @@
 </p>
   
 ---
-<!-- BLOG-POST-LIST:END -->
