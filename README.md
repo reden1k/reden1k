@@ -29,7 +29,7 @@
 - 🚨 Haven't had any development experience with the team yet, but looking forward to it!
 
 ### Languages and tools:
-<img src="https://skills.thijs.gg/icons?i=java,js,nodejs,mysql,hibernate,docker,maven,linux,idea,vscode&theme=dark"/>
+<img src="https://skills.thijs.gg/icons?i=java,js,nodejs,mysql,hibernate,docker,maven,bash,linux,idea,vscode&theme=dark"/>
 
 ### Stats:
 <p>
