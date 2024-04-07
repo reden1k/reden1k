@@ -2,7 +2,7 @@
 
 <div align="center">
   <div id="header">
-    <img src="https://github.com/reden1k/reden1k/assets/45299992/2e854ab2-3454-4a10-b581-6da64ea6a554" width="200"/>
+    <img src="https://github.com/reden1k/reden1k/assets/45299992/2e854ab2-3454-4a10-b581-6da64ea6a554" width="150"/>
   </div>
 <div>
   <a href="https://discord.gg/TVsPMe5WNR" style="text-decoration: none; margin-right: 5px;"><img src="https://github.com/reden1k/reden1k/assets/45299992/972a68d1-914b-4092-82d4-a24a32cff05c" width="40" height="40"/></a>
