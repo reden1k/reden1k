@@ -10,14 +10,14 @@
   <div id="counter">
     <img src="https://komarev.com/ghpvc/?username=reden1k"/>
   </div>
-  
+
   <h1>
     hey there!
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun%20Behind%20Rain%20Cloud.png" alt="Sun Behind Rain Cloud" width="40" height="40"/>
   </h1>
   
   <div>
-    <img src="https://github.com/reden1k/reden1k/assets/45299992/37d1a2cb-61ba-4021-bb0b-dde1d8589ba3" alt="some nice gif" width="700" height="400"/>
+    <img src="https://github.com/reden1k/reden1k/assets/45299992/ae635570-c9e9-4a90-8c9f-dc2348f908e0" alt="some nice gif" width="900" height="500"/>
   </div>
 </div>
 
