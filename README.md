@@ -17,7 +17,7 @@
   </h1>
   
   <div>
-    <img src="https://github.com/reden1k/reden1k/assets/45299992/ae635570-c9e9-4a90-8c9f-dc2348f908e0" alt="some nice gif" width="900" height="500"/>
+    <img src="https://github.com/reden1k/reden1k/assets/45299992/ae635570-c9e9-4a90-8c9f-dc2348f908e0" alt="some nice gif" width="800" height="450"/>
   </div>
 </div>
 
