@@ -33,8 +33,10 @@
 <img src="https://skills.thijs.gg/icons?i=java,js,nodejs,mysql,hibernate,docker,maven,bash,linux,idea,vscode&theme=dark"/>
 
 ### Stats:
-<p>
-  <img width="400" height="250" src="https://github-readme-stats.vercel.app/api?username=redeN1k&show_icons=true&theme=tokyonight&hide_border=true">
-</p>
+<div>
+  <img align="left" width="400" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redeN1k&layout=compact">
+  <img align="center" width="400" height="250" src="https://github-readme-stats.vercel.app/api?username=redeN1k&show_icons=true&theme=radical&hide_border=true">
+</div>
+
   
 ---
