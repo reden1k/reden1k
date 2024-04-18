@@ -30,7 +30,7 @@
 - ⛩️ Workplace: none
 
 ### Languages and tools:
-<img src="https://skills.thijs.gg/icons?i=java,js,nodejs,mysql,hibernate,docker,maven,bash,linux,idea,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,js,nodejs,hibernate,mysql,docker,maven,linux,bash,idea,vscode&theme=dark">
 
 ### Stats:
 <div>
