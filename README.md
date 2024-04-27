@@ -5,7 +5,9 @@
 <div>
   <a href="https://discord.gg/TVsPMe5WNR" style="text-decoration: none; margin-right: 5px;"><img src="https://github.com/reden1k/reden1k/assets/45299992/972a68d1-914b-4092-82d4-a24a32cff05c" width="40" height="40"/></a>
   <a href="https://t.me/redeN41k" style="text-decoration: none;"><img src="https://github.com/reden1k/reden1k/assets/45299992/d5052f4a-1308-48c1-b472-d461740e8900" width="40" height="40"/></a>
-  <a href="mailto:reden1kwork@gmail.com" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="40"></a>
+  <!---
+<a href="mailto:reden1kwork@gmail.com" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="40"></a>
+-->
 </div>
   <div id="counter">
     <img src="https://komarev.com/ghpvc/?username=reden1k"/>
