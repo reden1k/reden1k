@@ -32,7 +32,7 @@
 - ⛩️ Workplace: none
 
 ### Languages and tools:
-<img src="https://skillicons.dev/icons?i=java,js,nodejs,hibernate,mysql,docker,maven,linux,bash,idea,vscode&theme=dark">
+<img src="https://skillicons.dev/icons?i=java,js,nodejs,hibernate,mysql,docker,maven,linux,bash,grafana,prometheus,idea,vscode&theme=dark">
 
 ### Stats:
 <div>
