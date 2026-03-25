@@ -1,6 +1,6 @@
 # About me
 - Age: 19 y.o developer
-- Working?/Searching?: nope/yes
+- Available for hire
 
 ## Stack
 ### Frontend/Web apps
