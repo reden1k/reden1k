@@ -2,7 +2,7 @@
 - Age: 19 y.o developer
 - Available for hire
 
-## Stack
+## Tech Stack
 ### Frontend/Web apps
 <p align="left">
   <img src="https://skillicons.dev/icons?i=typescript,react,vite,nextjs,tailwind,nodejs,bun,electron,tauri" />
