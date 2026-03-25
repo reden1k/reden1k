@@ -38,9 +38,3 @@
   <img src="https://cdn.simpleicons.org/docker" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/raspberrypi" width="40" height="40"/>
 </p>
-
-### Stats:
-<div>
-  <img align="left" width="400" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redeN1k&layout=compact&theme=radical&hide_border=true">
-  <img align="center" width="400" height="250" src="https://github-readme-stats.vercel.app/api?username=redeN1k&show_icons=true&theme=radical&hide_border=true">
-</div>
