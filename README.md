@@ -1,5 +1,5 @@
 # About me
-- Age: 19 y.o developer
+- Age: 19 y.o Backend Developer
 - Available for hire
 
 ## Tech Stack
@@ -10,18 +10,11 @@
 
 ### Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,postgresql,mysql,redis" />
+  <img src="https://skillicons.dev/icons?i=go,postgresql,mysql,redis,graphql" />
 </p>
 
 ### DevOps/Infra
-<p align="left">
-  <img src="https://cdn.simpleicons.org/proxmox" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/truenas" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/nixos" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/debian" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/prometheus" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/grafana" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/nginx" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/docker" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/raspberrypi" width="40" height="40"/>
-</p>
+<img src="https://skillicons.dev/icons?i=docker,nginx,grafana,prometheus,gitlab,nix,debian,raspberrypi,linux" />
+
+### IDE & Shell
+<img src="https://skillicons.dev/icons?i=neovim,bash" />
