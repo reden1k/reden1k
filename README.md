@@ -1,5 +1,5 @@
 # About me
-- Age: 19 y.o Backend Developer
+- Age: 20 y.o Backend Developer
 - Available for hire
 
 ## Tech Stack
